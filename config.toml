@@ -1,3 +1,10 @@
 languageCode = "en-us"
 title = "farhad"
 baseurl = "http://frhd.me/"
+theme = "frhd"
+
+
+[params]
+  CopyrightHTML = "Copyright &#xA9; 2013 farhad. No Rights Reserved."
+  TwitterUser = "spf13"
+  SidebarRecentLimit = 5
